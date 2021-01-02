@@ -1,76 +1,51 @@
-# Project 1
+# Project 1: Games App
 
-# Games App
+## Description
 
-- Used HTML, CSS, JQuery, Javascript, APIs, Ajax, Photoshop, Noun Project
-- Over 220 commits with almost no merge conflicts
-- Each person had at least one game to code
-- All collaborated on main page and highscores page
-- End of game workflows were collaborative
+From a landing page, 6 games developed by individual team members are available for play. The page can be toggled between light and dark mode.
+
+```
+USER has the option of 6 games to play
+EACH game adds the final score to the highscore page
+```
+
+## Contributors
+- [Jessica Menius](https://github.com/jessicamenius)
+- [Jim Mehta](https://github.com/jimit1)
+- [Danielle Arias](https://github.com/darias321)
+- [Julia Hanlon](https://github.com/julhanlon)
+
+## Team Contributions
+
 - Met every evening for at least 2 hours
-- Helped each other fix bugs in code
-- Used google, stackoverflow, W3schools, MDNweb + TAs+ tutors
+- Over 300 commits with very few merge conflicts
+- Worked together to fix bugs in code
+- Games individually created by each team member
+- Collaborated on landing page, highscore page, and end of game workflows
 
-# Main Page
+
+## Packages (back-end)
+
+- JavaScript
+- jQuery
+- Ajax
+
+## Libraries (front-end)
+
+- HTML
+- CSS
+- Bootstrap
+
+## Additional Resources Used
+
+- Photoshop
+- Noun Project
+- Google
+- stackoverflow
+- W3schools
+- MDNweb
+- TAs/tutors
+
+## Landing Page
 
 ![demo](assets/darkmode.gif)
-
-# Snake Game
-
-![snake](assets/snakegame.gif)
-
-# Memory Game
-
-![memorygame](assets/memorygame.gif)
-
-## Application Requirements
-
-- Must use at least two server-side APIs
-
-- Must use a CSS framework _other than_ Bootstrap
-
-- Must be interactive (i.e: accept and respond to user input)
-
-- Use at least one new third-party API
-
-- Must have a polished UI
-
-- Must meet good quality coding standards
-
-- Does not use alerts, confirms or prompts (look into _modals_)
-
-- Must be deployed to GitHub Pages
-
-## Presentation Requirements
-
-Use this [project presentation template](https://docs.google.com/presentation/d/1_u8TKy5zW5UlrVQVnyDEZ0unGI2tjQPDEpA0FNuBKAw/edit?usp=sharing) to address the following:
-
-- Elevator pitch: a one minute description of your application
-
-- Concept: What is your user story? What was your motivation for development?
-
-- Process: What were the technologies used? How were tasks and roles broken down and assigned? What challenges did you encounter? What were your successes?
-
-- Demo: Show your stuff!
-
-- Directions for Future Development
-
-- Links to the deployed application and the GitHub repository
-
-## Grading Metrics
-
-| Metric        | Weight |
-| ------------- | ------ |
-| Concept       | 10%    |
-| Design        | 20%    |
-| Functionality | 30%    |
-| Collaboration | 30%    |
-| Presentation  | 10%    |
-
-## Submission on BCS
-
-You are required to submit the following:
-
-- The URL of the deployed application
-
-- The URL of the GitHub repository
